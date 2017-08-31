@@ -8,9 +8,4 @@ php PrintTriangle.php {specify the number of rows}
 
 # Example  
 
-php PrintTriangle.php 4 // Will print this triangle  
-
-   *  
-  ***  
- *****  
-*******  
+php PrintTriangle.php 4  
